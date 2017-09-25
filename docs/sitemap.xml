@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/post/artifact1/</loc>
+    <lastmod>2017-09-25T18:35:25-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://michaelhealy.space/digital-revolutions-eportfolio/page/about/</loc>
     <lastmod>2017-09-08T09:51:53-04:00</lastmod>
   </url>
@@ -20,6 +25,12 @@
   <url>
     <loc>http://michaelhealy.space/digital-revolutions-eportfolio/page/</loc>
     <lastmod>2017-09-08T09:51:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/post/</loc>
+    <lastmod>2017-09-25T18:35:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
