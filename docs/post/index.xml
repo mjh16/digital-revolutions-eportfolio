@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Digital Revolutions and Convergence Culture</title>
+    <title>Artifacts and Reflections on Digital Revolutions and Convergence Culture</title>
     <link>http://michaelhealy.space/digital-revolutions-eportfolio/post/</link>
-    <description>Recent content in Posts on Digital Revolutions and Convergence Culture</description>
+    <description>Recent content in Artifacts and Reflections on Digital Revolutions and Convergence Culture</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Sep 2017 18:35:25 -0400</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Oct 2017 12:08:50 -0400</lastBuildDate>
     
 	<atom:link href="http://michaelhealy.space/digital-revolutions-eportfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Artifact 1: SRR The Social Life of Information</title>
-      <link>http://michaelhealy.space/digital-revolutions-eportfolio/post/artifact1/</link>
+      <title>Selection 1 Reflection</title>
+      <link>http://michaelhealy.space/digital-revolutions-eportfolio/post/selection-1-reflection/</link>
+      <pubDate>Mon, 25 Sep 2017 18:45:25 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/digital-revolutions-eportfolio/post/selection-1-reflection/</guid>
+      <description>What? This selection is the SRR that I wrote on The Social Life of Information. It was originally due during Hurricane Irma, and it was a weird one in the ways in which it fit in this strange start to the semester. It was also a piece written when, while we were technically three weeks into the semester, we hadn’t met much yet.
+So what? I chose this SRR for a few reasons.</description>
+    </item>
+    
+    <item>
+      <title>Selection 1: SRR The Social Life of Information</title>
+      <link>http://michaelhealy.space/digital-revolutions-eportfolio/post/selection-1/</link>
       <pubDate>Mon, 25 Sep 2017 18:35:25 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/digital-revolutions-eportfolio/post/artifact1/</guid>
+      <guid>http://michaelhealy.space/digital-revolutions-eportfolio/post/selection-1/</guid>
       <description>Selection 1: Thinking about Networks, Interfaces, and Open-Source In The Social Life of Information, Seely Brown and Duguid explore the expansion of information and information technologies, and the effects on the people, products, business, education, and lives of these involved. They largely focus on important business and industrial players, and the ways in which they had evolved during the late 1990s. They also look at the shifting economic and cultural forces, examining how formalized structures are slow to adapt to the changing realities.</description>
     </item>
     

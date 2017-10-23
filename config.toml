@@ -1,29 +1,25 @@
 baseURL = "http://michaelhealy.space/digital-revolutions-eportfolio/"
-defaultContentLanguage = "en"
+languageCode = "en-us"
 title = "Digital Revolutions and Convergence Culture"
 publishdir = "docs"
-theme = "minimo"
+theme = "gohugo-theme-ananke"
 disqusShortname = "digitalrevolutions"
-
+SectionPagesMenu = "main"
+DefaultContentLanguage = "en"
+MetaDataFormat = "toml"
 paginate = 10
-preserveTaxonomyNames = true
+canonifyURLs = true
 
 [params]
   description = "Michael Healy's Fall 2017 ePortfolio"
   dateFormat = "Jan 2, 2006"
-  hideEntryNavigation = false
-  hideSocialMenu = false
-  showReadTime = true
+  twitter = "mhealy_rhet"
+  instagram = "mjhealy"
+  github = "mjh16"
+  favicon = "/img/share.png"
+  background_color_class = "bg-moon-gray"
+  featured_image = "/img/station.jpg"
 
 [taxonomies]
   category = "categories"
   tag = "tags"
-
-[author]
-  name = "Michael Healy"
-
-[author.social]
-  email = "mjh16m@my.fsu.edu"
-  github = "mjh16"
-  instagram = "mjhealy"
-  twitter = "mhealy_rhet"

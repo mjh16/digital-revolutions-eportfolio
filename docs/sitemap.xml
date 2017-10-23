@@ -3,34 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/</loc>
-    <lastmod>2017-09-08T09:50:03-04:00</lastmod>
+    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/post/</loc>
+    <lastmod>2017-10-23T12:08:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/post/artifact1/</loc>
+    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/</loc>
+    <lastmod>2017-10-23T12:04:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/post/selection-1-reflection/</loc>
+    <lastmod>2017-09-25T18:45:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/post/selection-1/</loc>
     <lastmod>2017-09-25T18:35:25-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/page/about/</loc>
+    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/about/</loc>
     <lastmod>2017-09-08T09:51:53-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://michaelhealy.space/digital-revolutions-eportfolio/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/page/</loc>
-    <lastmod>2017-09-08T09:51:53-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://michaelhealy.space/digital-revolutions-eportfolio/post/</loc>
-    <lastmod>2017-09-25T18:35:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
