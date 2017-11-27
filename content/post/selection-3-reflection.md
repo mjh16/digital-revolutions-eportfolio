@@ -2,7 +2,7 @@
 title = "Selection 3 Reflection"
 date = 2017-11-13T12:04:49-05:00
 draft = false
-featured_image = "/img/IMG_0889.jpg"
+featured_image = "/img/networking-2.png"
 
 +++
 
