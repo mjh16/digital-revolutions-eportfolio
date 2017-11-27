@@ -2,14 +2,13 @@
 title = "Selection 3: Collaborative Assemblage"
 date = 2017-11-13T12:04:42-05:00
 draft = false
-featured_image = "/img/IMG_0886.jpg"
+featured_image = "/img/computer-class-room.png"
 +++
 For this third selection, I chose a collaborative blog post on assemblage. [The post can be found here](https://fsu2017digitalrevolution.blogspot.com/2017/10/isnt-assemblage-all-of-things.html), and I've copied the text of the post below, though the color of the fonts did not carry with it.
 
 [A reflection on this piece can be found here] (/post/selection-3-reflection/)
 
 ---
-
 
 ## Isn't Assemblage All of the Things?:
 ### An assemblage by Kamila, Michael, Liana, and Brendan
