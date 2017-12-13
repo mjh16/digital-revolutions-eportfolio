@@ -5,7 +5,7 @@ draft = false
 +++
 Below is a piece of born digital scholarship examining public memory, memorilization, and the circulation of artifacts from September 11th, including steel. Portions of the video do not have audio, which is intentional to allow room for making connections between the audio, video, and text.
 
-{{< youtube ztZj3m9qn8I >}}
+{{< youtube J72wvvr7kiI >}}
 
 
 #### Works Cited
